@@ -1,0 +1,44 @@
+{
+    "111": {
+        "codigo": 111,
+        "nombre": "Samsung galaxy",
+        "precio": 200.0,
+        "cantidad": 3,
+        "marca": "Samsung"
+    },
+    "222": {
+        "codigo": 222,
+        "nombre": "Tcl cel 29",
+        "precio": 500.0,
+        "cantidad": 3,
+        "marca": "TCL"
+    },
+    "333": {
+        "codigo": 333,
+        "nombre": "Prueba",
+        "precio": 23.0,
+        "cantidad": 4,
+        "marca": "algo nuevo"
+    },
+    "444": {
+        "codigo": 444,
+        "nombre": "Notebook dell",
+        "precio": 600.0,
+        "cantidad": 4,
+        "marca": "Dell"
+    },
+    "555": {
+        "codigo": 555,
+        "nombre": "Iphone x",
+        "precio": 266.0,
+        "cantidad": 6,
+        "marca": "iphone"
+    },
+    "666": {
+        "codigo": 666,
+        "nombre": "Yogurt sancor",
+        "precio": 2.0,
+        "cantidad": 10,
+        "categoria": "Lacteos"
+    }
+}
