@@ -1,0 +1,4 @@
+DB_HOST=localhost
+DB_USER=db_user ej:(root - postgres..etc)
+DB_PASSWORD=DB_PASSWORD
+DB_DATABASE=name_database
