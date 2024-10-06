@@ -1,5 +1,12 @@
 # Gestión de Productos
 
+
+### Objetivo: 
+**Mediante la creación de repositorios en GitHub que implemente la solución propuesta en el laboratorio anterior con persistencia en una base de datos SQL.**
+
+## Descripción: 
+**En este laboratorio, deberás implementar la solución utilizando Python en el paradigma de programación orientada a objetos. La persistencia de los datos deberá realizarse en una base de datos SQL. Una vez completada la solución, deberás subir el código a un repositorio público en GitHub y proporcionar el enlace correspondiente para su evaluación.**
+
 ## Descripción
 
 Este proyecto permite gestionar productos electrónicos y alimenticios utilizando una base de datos *PostgreSql* para almacenar y recuperar datos. Proporciona funcionalidades para agregar, buscar, actualizar y eliminar productos, así como mostrar todos los productos almacenados.
